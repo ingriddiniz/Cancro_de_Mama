@@ -5,7 +5,7 @@ Este projeto utiliza um conjunto de dados clássico em bioinformática, contendo
 O conjunto de dados utilizado neste projeto contém informações sobre várias características das células presentes em amostras de tecido mamário, bem como o diagnóstico final de benigno (B) ou maligno (M). As informações detalhadas sobre as colunas podem ser encontradas na descrição fornecida [aqui](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.names).
 ## Função Implementada
 Foi implementada a função `desenhaDiagnostico` para gerar um gráfico de dispersão (scatter plot) que destaca a correlação entre alguns atributos e o diagnóstico final:<br>
-`desenhaDiagnostico`: Esta função gera um gráfico de dispersão com os atributos "Uniformity of Cell Size" nos eixos X e "Uniformity of Cell Shape" nos eixos Y. Cada ponto no gráfico é colorido de acordo com o diagnóstico (atributo "Class"). Além disso, o tamanho de cada ponto é proporcional ao número de entradas com os mesmos valores de X e Y.<br>
+<br> Esta função gera um gráfico de dispersão com os atributos "Uniformity of Cell Size" nos eixos X e "Uniformity of Cell Shape" nos eixos Y. Cada ponto no gráfico é colorido de acordo com o diagnóstico (atributo "Class"). Além disso, o tamanho de cada ponto é proporcional ao número de entradas com os mesmos valores de X e Y.<br>
 
 ## Resultado Esperado
 
