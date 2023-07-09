@@ -1,5 +1,5 @@
 # Análise de Dados de Diagnóstico de Cancro da Mama
-Pandas e MatplotLib
+
 Este projeto utiliza um conjunto de dados clássico em bioinformática, contendo informações de diagnóstico de cancro da mama por paciente, retirado [desta](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) fonte e disponibilizado como um ficheiro CSV [aqui](../scripts/projeto3/dados/breast_cancer.csv). <br> 
 ## Conjunto de Dados
 O conjunto de dados utilizado neste projeto contém informações sobre várias características das células presentes em amostras de tecido mamário, bem como o diagnóstico final de benigno (B) ou maligno (M). As informações detalhadas sobre as colunas podem ser encontradas na descrição fornecida [aqui](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.names).
