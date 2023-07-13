@@ -10,4 +10,4 @@ Foi implementada a função `desenhaDiagnostico` para gerar um gráfico de dispe
 ## Resultado Esperado
 
 Ao executar o código, será gerado um gráfico de dispersão que destaca a correlação entre os atributos "Uniformity of Cell Size" e "Uniformity of Cell Shape" em relação ao diagnóstico final de benigno ou maligno. Cada ponto no gráfico será colorido de acordo com o diagnóstico, e o tamanho do ponto será proporcional ao número de entradas com os mesmos valores de X e Y.
-
+![grafico_dispersao](x.png)
